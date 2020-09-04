@@ -3,6 +3,7 @@ layout: page
 title: "Project Description"
 permalink: /project/
 ---
+# Overview #
 The CRITISEC project intends to develop security services and standards for edge networks in critical infrastructures allowing to connect edge networks to control and production systems in a secure way. Use cases focused on are Energy distribution, Smart cities, Critical communication, Critical Logistics, Identity Management and distributed ledgers.
 The core idea of the CRITISEC project is to develop novel security products, services and standards for edge networks in critical infrastructures, where the edge networks are a heterogeneous set of networks connected to the edge of a core production network.
 The challenges that CRITISEC will be addressing are: 
@@ -11,7 +12,7 @@ The challenges that CRITISEC will be addressing are:
 3) the predominant presence of open/shared platforms, where multiple applications share access to a common network of edge devices; 
 4) the presence of legacy devices and platforms, for which secure update procedures are often scarce, if any.
 
-_Approach_
+# Approach #
 
 The CRITISEC project will perform research in the following novel technology areas related to security in critical infrastructures, and will develop corresponding innovative security mechanisms and solutions: 
 *	The use of AI for threat analysis, and mitigation strategies.
@@ -37,7 +38,7 @@ The use cases will be demonstrated in three application examples:
 *	Smart luminaries (use case 2)
 *	Disaster area (use cases 3, 4,5 and 6)
 
-_Main results_
+# Main results #
 The main results of this project will be novel security standards, solutions, products and services that can be used by providers of critical infrastructures to secure edge networks connected to their production systems. This will reduce the risk of malicious service disruption and preserve availability, reliability and safety in provisioning of societal services.
 
 The main results will include:
@@ -48,7 +49,7 @@ The main results will include:
 *	Solutions to use blockchain and open ledgers for IoT device management
 *	A 5G security surveillance system
 
-_Impact_
+# Impact #
 The CRITISEC project results will have a great impact on several areas in the IoT market.
 
 First, the IETF standards proposed by CRITISEC - including OSCORE and Group OSCORE - will be implemented in several solutions from CRITISEC partners and used to improve the end-to-end security of critical IoT networks. The solutions will be implemented in several real world use cases by the project partners
