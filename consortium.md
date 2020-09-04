@@ -13,5 +13,5 @@ permalink: /consortium/
 * Sensative AB (Sweden)
 * Kraftringen Energi AB (Sweden)
 * Applio Tech AB (Sweden)
-* III-CSTI (Sweden)
+* III-CSTI (Taiwan)
 
