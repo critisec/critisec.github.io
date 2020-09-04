@@ -4,15 +4,15 @@ title: "Publications"
 permalink: /publications/
 ---
 
-# Journal Articles #
+# Journal Articles
 * M. Tiloca, G. Dini, K. Rizki and S. Raza, "Group rekeying based on member join history", International Journal of Information Security, Springer, 2019. 
 Online: [https://link.springer.com/article/10.1007/s10207-019-00451-0](https://link.springer.com/article/10.1007/s10207-019-00451-0)
 
-# Conference Papers #
+# Conference Papers
 * G. Carignani, F. Righetti, C. Vallati, M. Tiloca and G. Anastasi, "Evaluation of Feasibility and Impact of Attacks Against the 6top Protocol in 6TiSCH Networks", in Proceedings of the 21st IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM 2020), pp 1-10, Cork (Ireland),
 2020 (To appear)
 
-# IETF Stardardization meetings # 
+# IETF Stardardization meetings
 
 Regular participation and presentations at the IETF meetings:
 
@@ -23,7 +23,7 @@ Regular participation and presentations at the IETF meetings:
 * IETF 108 (Online, July 2020) 
 * IETF 109 (Online, November 2020)
 
-# IETF Standardization Activities #
+# IETF Standardization Activities
 
 The following list includes the IETF documents where RISE has been involved. For each of them, a brief description is provided.
 
@@ -43,7 +43,7 @@ The following list includes the IETF documents where RISE has been involved. For
 This document defines how to transport Enrollment over Secure Transport (EST) payloads over secure CoAP (EST-coaps), which allows constrained devices to use   existing EST functionality for provisioning certificates.
 [https://tools.ietf.org/html/draft-ietf-ace-coap-est](https://tools.ietf.org/html/draft-ietf-ace-coap-est)
 
-##  In IETF Last Call
+## In IETF Last Call
 
 4. Authentication and Authorization for Constrained Environments (ACE) using the OAuth 2.0 Framework (ACE-OAuth)
 * A framework for authentication and authorization in Internet of Things (IoT) environments, based on a set of building blocks including OAuth 2.0 and CoAP.
