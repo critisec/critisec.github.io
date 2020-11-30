@@ -10,17 +10,35 @@ permalink: /publications/
 * M. Tiloca, G. Dini, K. Rizki and S. Raza, "Group rekeying based on member join history", International Journal of Information Security, Springer, 2019. 
 Online: [https://link.springer.com/article/10.1007/s10207-019-00451-0](https://link.springer.com/article/10.1007/s10207-019-00451-0)
 
+---
+
 # Conference Papers
 * G. Carignani, F. Righetti, C. Vallati, M. Tiloca and G. Anastasi, "Evaluation of Feasibility and Impact of Attacks Against the 6top Protocol in 6TiSCH Networks", in Proceedings of the 21st IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM 2020), pp 1-10, Cork (Ireland),
 2020 (To appear)
+
+---
 
 # Invited Talks
 
 * M. Tiloca, "IETF OSCORE and Group OSCORE - Secure end-to-end (group) communication for CoAP", at the Thread Group Virtual Members Meeting, 3rd of November, 2020.
 
+---
+
 # Press Releases
 
 * "Smarta lyktstolpar i byn" (in Swedish). Online: [https://veberod.nu/smarta-lyktstolpar-i-byn/](https://veberod.nu/smarta-lyktstolpar-i-byn/)
+
+* "Tyréns med i forskningsprojekt för smarta lyktstolpar" (in Swedish). Online:
+   - [https://www.tyrens.se/sv/aktuellt/nyheter/tyr%C3%A9ns-med-i-forskningsprojekt-foer-smarta-lyktstolpar/](https://www.tyrens.se/sv/aktuellt/nyheter/tyr%C3%A9ns-med-i-forskningsprojekt-foer-smarta-lyktstolpar/)
+   - [https://www.mynewsdesk.com/se/tyrens/pressreleases/tyrens-med-i-forskningsprojekt-foer-smarta-lyktstolpar-3052279](https://www.mynewsdesk.com/se/tyrens/pressreleases/tyrens-med-i-forskningsprojekt-foer-smarta-lyktstolpar-3052279)
+   - [https://www.industri24.se/nyheter/tyreens-med-i-forskningsprojekt-foer-smarta-lyktstolpar--__11698.htm](https://www.industri24.se/nyheter/tyreens-med-i-forskningsprojekt-foer-smarta-lyktstolpar--__11698.htm)
+   - [https://www.linkedin.com/company/tyrens-ab/](https://www.linkedin.com/company/tyrens-ab/)
+   - [https://www.facebook.com/permalink.php?id=152151961470902&story_fbid=3828049700547758](https://www.facebook.com/permalink.php?id=152151961470902&story_fbid=3828049700547758)
+   - [https://es-la.facebook.com/pg/tyrensab/posts/?ref=page_internal](https://es-la.facebook.com/pg/tyrensab/posts/?ref=page_internal)
+
+* "Smarta lyktstolpar testas i Veberöd" (in Swedish). Online: [https://ljuskultur.se/smarta-lyktstolpar-testas-i-veberod/](https://ljuskultur.se/smarta-lyktstolpar-testas-i-veberod/)
+
+---
 
 # IETF Stardardization meetings
 
@@ -32,6 +50,8 @@ Regular participation and presentations at the IETF meetings:
 * IETF 107 (Vancouver, March 2020) --- Cancelled and reverted to online interim meetings
 * IETF 108 (Online, July 2020) 
 * IETF 109 (Online, November 2020)
+
+---
 
 # IETF Standardization Activities
 
