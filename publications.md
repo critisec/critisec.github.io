@@ -67,12 +67,6 @@ The following list includes the IETF documents where RISE has been involved. For
 * With reference to authentication, authorization and access control, this document provides a description of how to declare in a CBOR Web Token (CWT) (which is defined by RFC 8392) that the presenter of the CWT possesses a particular proof-of-possession key.
 * [https://tools.ietf.org/html/rfc8747](https://tools.ietf.org/html/rfc8747)
 
-## In the RFC Editor's Queue
-
-3. EST over secure CoAP (EST-coaps)
-This document defines how to transport Enrollment over Secure Transport (EST) payloads over secure CoAP (EST-coaps), which allows constrained devices to use   existing EST functionality for provisioning certificates.
-[https://tools.ietf.org/html/draft-ietf-ace-coap-est](https://tools.ietf.org/html/draft-ietf-ace-coap-est)
-
 ## In IETF Last Call
 
 4. Authentication and Authorization for Constrained Environments (ACE) using the OAuth 2.0 Framework (ACE-OAuth)
