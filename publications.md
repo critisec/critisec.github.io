@@ -69,70 +69,70 @@ The following list includes the IETF documents where RISE has been involved. For
 
 ## In IETF Last Call
 
-4. Authentication and Authorization for Constrained Environments (ACE) using the OAuth 2.0 Framework (ACE-OAuth)
+3. Authentication and Authorization for Constrained Environments (ACE) using the OAuth 2.0 Framework (ACE-OAuth)
 * A framework for authentication and authorization in Internet of Things (IoT) environments, based on a set of building blocks including OAuth 2.0 and CoAP.
 * [https://tools.ietf.org/html/draft-ietf-ace-oauth-authz](https://tools.ietf.org/html/draft-ietf-ace-oauth-authz)
 
-5. Additional OAuth Parameters for Authorization in Constrained Environments (ACE)
+4. Additional OAuth Parameters for Authorization in Constrained Environments (ACE)
 * Definition of new parameters to interact with the Authorization Server of the framework for   authentication and authorization for constrained environments (ACE).
 * [https://tools.ietf.org/html/draft-ietf-ace-oauth-params](https://tools.ietf.org/html/draft-ietf-ace-oauth-params)
 
-6. OSCORE profile of the Authentication and Authorization for Constrained Environments Framework
+5. OSCORE profile of the Authentication and Authorization for Constrained Environments Framework
 * A profile for the Authentication and   Authorization for Constrained Environments (ACE) framework, which  utilizes Object Security for Constrained RESTful Environments   (OSCORE) in order to achieve communication security, server authentication, and proof-of-possession.
 * [https://tools.ietf.org/html/draft-ietf-ace-oscore-profile](https://tools.ietf.org/html/draft-ietf-ace-oscore-profile)
 
-7. Datagram Transport Layer Security (DTLS) Profile for Authentication and Authorization for Constrained Environments (ACE)
+6. Datagram Transport Layer Security (DTLS) Profile for Authentication and Authorization for Constrained Environments (ACE)
 * A profile for the Authentication and Authorization for Constrained Environments (ACE) framework, which utilizes Datagram Transport Layer Security (DTLS) in order to achieve communication security, server authentication, and proof-of-possession.
 * [https://tools.ietf.org/html/draft-ietf-ace-dtls-authorize](https://tools.ietf.org/html/draft-ietf-ace-dtls-authorize)
 
 ##  Adopted as Working Group documents
 
-8. Group Communication for the Constrained Application Protocol (CoAP)
+7. Group Communication for the Constrained Application Protocol (CoAP)
 * Usage of the Constrained Application Protocol (CoAP) for group communication, using UDP/IP multicast as the underlying data transport.
 * [https://tools.ietf.org/html/draft-ietf-core-groupcomm-bis](https://tools.ietf.org/html/draft-ietf-core-groupcomm-bis)
 
-9. Group OSCORE - Secure Group Communication for CoAP
+8. Group OSCORE - Secure Group Communication for CoAP
 * A method for protecting group communication over the Constrained Application Protocol (CoAP), based on Object Security for Constrained RESTful Environments (OSCORE).
 * [https://tools.ietf.org/html/draft-ietf-core-oscore-groupcomm](https://tools.ietf.org/html/draft-ietf-core-oscore-groupcomm)
 
-10. Key Provisioning for Group Communication using ACE
+9. Key Provisioning for Group Communication using ACE
 * Definition of message formats and procedures for requesting  and distributing group keying material using the Authorization for Constrained Environments (ACE) framework, to protect communications among group members.
 * [https://tools.ietf.org/html/draft-ietf-ace-key-groupcomm](https://tools.ietf.org/html/draft-ietf-ace-key-groupcomm)
 
-11. Key Management for OSCORE Groups in ACE
+10. Key Management for OSCORE Groups in ACE
 * A method to request and provision keying   material in group communication scenarios where the group communication is based on CoAP and secured with Group Object Security for Constrained RESTful Environments (Group OSCORE), building on the ACE framework for Authentication and Authorization
 * [https://tools.ietf.org/html/draft-ietf-ace-key-groupcomm-oscore](https://tools.ietf.org/html/draft-ietf-ace-key-groupcomm-oscore)
 
-12.	Admin Interface for the OSCORE Group Manager
+11.	Admin Interface for the OSCORE Group Manager
 * A RESTful admin interface at the Group Manager, that allows an Administrator entity to create and delete OSCORE groups, as well as to retrieve and update their configuration. The ACE framework for Authentication and Authorization is used to enforce   authentication and authorization of the Administrator at the Group Manager.
 * [https://tools.ietf.org/html/draft-tiloca-ace-oscore-gm-admin](https://tools.ietf.org/html/draft-tiloca-ace-oscore-gm-admin)
 
 ##  Individual submissions
 
-13.	Observe Notifications as CoAP Multicast Responses
+12.	Observe Notifications as CoAP Multicast Responses
 * Method for a CoAP server to send (secure) observe notifications as response messages over IP multicast.
 * [https://tools.ietf.org/html/draft-tiloca-core-observe-multicast-notifications](https://tools.ietf.org/html/draft-tiloca-core-observe-multicast-notifications)
 
-14.	Discovery of OSCORE Groups with the CoRE Resource Directory
+13.	Discovery of OSCORE Groups with the CoRE Resource Directory
 * Method for a CoAP endpoint to use the CoRE Resource Directory for discovering Object Security for Constrained RESTful Environments (OSCORE) groups and acquiring information to join them.
 * [https://tools.ietf.org/html/draft-tiloca-core-oscore-discovery](https://tools.ietf.org/html/draft-tiloca-core-oscore-discovery)
 
-15.	Proxy Operations for CoAP Group Communication
+14.	Proxy Operations for CoAP Group Communication
 * A method to enable CoAP forward proxies to operate in group communication scenarios, by forwarding over multicast one request to multiple servers, and forwarding back the individual distinguishable responses to the client.
 * [https://tools.ietf.org/html/draft-tiloca-core-groupcomm-proxy](https://tools.ietf.org/html/draft-tiloca-core-groupcomm-proxy)
 
-16. Cachable OSCORE
+15. Cachable OSCORE
 * Two methods to enable CoAP forward proxies to cache response messages protected with Group Object Security for Constrained RESTful Environments (Group OSCORE).
 * [https://tools.ietf.org/html/draft-amsuess-core-cachable-oscore](https://tools.ietf.org/html/draft-amsuess-core-cachable-oscore)
 
-17. Combining EDHOC and OSCORE
+16. Combining EDHOC and OSCORE
 * A method to efficiently combine the execution of the authenticated key establishment protocol Ephemeral Diffie-Hellman over COSE (EDHOC) with a following message exchange protected with Object Security for Constrained RESTful Environments (OSCORE).
 * [https://tools.ietf.org/html/draft-palombini-core-oscore-edhoc](https://tools.ietf.org/html/draft-palombini-core-oscore-edhoc)
 
-18.	Group OSCORE Profile of the Authentication and Authorization for Constrained Environments Framework
+17.	Group OSCORE Profile of the Authentication and Authorization for Constrained Environments Framework
 * A profile for the Authentication and Authorization for Constrained Environments (ACE) framework, which utilizes Object Security for Constrained RESTful Environments (OSCORE) and/or Group OSCORE to provide communication security   between a Client and (a group of) Resource Server(s), as well as OSCORE in order to achieve communication security, server authentication, and proof-of-possession.
 * [https://tools.ietf.org/html/draft-tiloca-ace-group-oscore-profile](https://tools.ietf.org/html/draft-tiloca-ace-group-oscore-profile)
 
-19.	Notification of Revoked Access Tokens in the Authentication and Authorization for Constrained Environments (ACE) Framework
+18.	Notification of Revoked Access Tokens in the Authentication and Authorization for Constrained Environments (ACE) Framework
 * A method of the Authentication and Authorization for Constrained Environments (ACE) framework, which allows an Authorization Server to notify Clients and Resource Servers (i.e., registered devices) about revoked Access Tokens.
 * [https://tools.ietf.org/html/draft-tiloca-ace-revoked-token-notification](https://tools.ietf.org/html/draft-tiloca-ace-revoked-token-notification)
