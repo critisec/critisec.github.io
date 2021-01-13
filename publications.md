@@ -38,6 +38,8 @@ Online: [https://link.springer.com/article/10.1007/s10207-019-00451-0](https://l
 
 * "Smarta lyktstolpar testas i Veberöd" (in Swedish). Online: [https://ljuskultur.se/smarta-lyktstolpar-testas-i-veberod/](https://ljuskultur.se/smarta-lyktstolpar-testas-i-veberod/)
 
+* "Så skapar du ett säkert belysningssystem" (in Swedish). Online: [https://omvarldsbevakning.byggtjanst.se/artiklar/2020/december/sa-skapar-du-ett-sakert-belysningssystem/](https://omvarldsbevakning.byggtjanst.se/artiklar/2020/december/sa-skapar-du-ett-sakert-belysningssystem/)
+
 ---
 
 # IETF Stardardization meetings
