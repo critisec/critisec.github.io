@@ -19,6 +19,7 @@ header_pages:
 - project.md
 - consortium.md
 - publications.md
+- software.md
 
 # Build settings
 theme: minima
