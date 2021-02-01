@@ -13,8 +13,8 @@ Online: [https://link.springer.com/article/10.1007/s10207-019-00451-0](https://l
 ---
 
 # Conference Papers
-* G. Carignani, F. Righetti, C. Vallati, M. Tiloca and G. Anastasi, "Evaluation of Feasibility and Impact of Attacks Against the 6top Protocol in 6TiSCH Networks", in Proceedings of the 21st IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM 2020), pp 1-10, Cork (Ireland),
-2020 (To appear)
+* G. Carignani, F. Righetti, C. Vallati, M. Tiloca and G. Anastasi, "Evaluation of Feasibility and Impact of Attacks Against the 6top Protocol in 6TiSCH Networks", in Proceedings of the 21st IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM 2020), pp 68-77, Cork (Ireland),
+2020
 
 ---
 
