@@ -5,9 +5,9 @@ permalink: /publications/
 ---
 
 # Journal Articles
-* M. Gunnarsson, J. Brorsson, F. Palombini, L. Seitz and M. Tiloca, "Evaluating the Performance of the OSCORE Security Protocol in Constrained IoT Environments", Internet of Things; Engineering Cyber Physical Human Systems, Elsevier, 2020 (To appear)
+* M. Gunnarsson, J. Brorsson, F. Palombini, L. Seitz and M. Tiloca, "Evaluating the Performance of the OSCORE Security Protocol in Constrained IoT Environments", Internet of Things; Engineering Cyber Physical Human Systems, Vol. 13, Elsevier, 2021. Online: [https://www.sciencedirect.com/science/article/pii/S2542660520301645](https://www.sciencedirect.com/science/article/pii/S2542660520301645)
 
-* M. Tiloca, G. Dini, K. Rizki and S. Raza, "Group rekeying based on member join history", International Journal of Information Security, Springer, 2019. 
+* M. Tiloca, G. Dini, K. Rizki and S. Raza, "Group rekeying based on member join history", International Journal of Information Security, Vol. 19, pp 343-381, Springer, 2020. 
 Online: [https://link.springer.com/article/10.1007/s10207-019-00451-0](https://link.springer.com/article/10.1007/s10207-019-00451-0)
 
 ---
