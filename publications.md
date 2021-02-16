@@ -45,6 +45,8 @@ Online: [https://link.springer.com/article/10.1007/s10207-019-00451-0](https://l
 
 * "Så skapar du ett säkert belysningssystem" (in Swedish). Online: [https://omvarldsbevakning.byggtjanst.se/artiklar/2020/december/sa-skapar-du-ett-sakert-belysningssystem/](https://omvarldsbevakning.byggtjanst.se/artiklar/2020/december/sa-skapar-du-ett-sakert-belysningssystem/)
 
+* "Framtidens smarta lyktstolpar blir mer energisnåla och trygghetsskapande" (in Swedish). Online: [https://kundnyheter.ellevio.se/framtidens-smarta-lyktstolpar-blir-mer-energisnala-och-trygghetsskapande/](https://kundnyheter.ellevio.se/framtidens-smarta-lyktstolpar-blir-mer-energisnala-och-trygghetsskapande/)
+
 ---
 
 # IETF Stardardization meetings
