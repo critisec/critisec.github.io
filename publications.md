@@ -131,7 +131,7 @@ The following list includes the IETF documents where RISE has been involved. For
 * [https://datatracker.ietf.org/doc/draft-tiloca-core-groupcomm-proxy/](https://datatracker.ietf.org/doc/draft-tiloca-core-groupcomm-proxy/)
 
 15. Cacheable OSCORE
-* Two methods to enable CoAP forward proxies to cache response messages protected with Group Object Security for Constrained RESTful Environments (Group OSCORE).
+* A method to enable CoAP forward proxies to cache response messages protected with Group Object Security for Constrained RESTful Environments (Group OSCORE).
 * [https://datatracker.ietf.org/doc/draft-amsuess-core-cachable-oscore/](https://datatracker.ietf.org/doc/draft-amsuess-core-cachable-oscore/)
 
 16. Combining EDHOC and OSCORE
