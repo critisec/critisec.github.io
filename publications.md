@@ -145,3 +145,7 @@ The following list includes the IETF documents where RISE has been involved. For
 18.	Notification of Revoked Access Tokens in the Authentication and Authorization for Constrained Environments (ACE) Framework
 * A method of the Authentication and Authorization for Constrained Environments (ACE) framework, which allows an Authorization Server to notify Clients and Resource Servers (i.e., registered devices) about revoked Access Tokens.
 * [https://tools.ietf.org/html/draft-tiloca-ace-revoked-token-notification](https://tools.ietf.org/html/draft-tiloca-ace-revoked-token-notification)
+
+19.	AEAD Key Usage Limits in OSCORE
+* A method for two OSCORE peers to take into account limits of the used AEAD cipher, to preserve the security of their communications.
+* [https://tools.ietf.org/html/draft-hoeglund-core-oscore-key-limits](https://tools.ietf.org/html/draft-hoeglund-core-oscore-key-limits)
