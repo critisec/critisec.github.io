@@ -59,6 +59,7 @@ Regular participation and presentations at the IETF meetings:
 * IETF 107 (Vancouver, March 2020) --- Cancelled and reverted to online interim meetings
 * IETF 108 (Online, July 2020) 
 * IETF 109 (Online, November 2020)
+* IETF 110 (Online, March 2021)
 
 ---
 
