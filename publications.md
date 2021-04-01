@@ -77,7 +77,7 @@ The following list includes the IETF documents where RISE has been involved. For
 * With reference to authentication, authorization and access control, this document provides a description of how to declare in a CBOR Web Token (CWT) (which is defined by RFC 8392) that the presenter of the CWT possesses a particular proof-of-possession key.
 * [https://tools.ietf.org/html/rfc8747](https://tools.ietf.org/html/rfc8747)
 
-## In IETF Last Call
+## In IESG Review or IETF Last Call
 
 3. Authentication and Authorization for Constrained Environments (ACE) using the OAuth 2.0 Framework (ACE-OAuth)
 * A framework for authentication and authorization in Internet of Things (IoT) environments, based on a set of building blocks including OAuth 2.0 and CoAP.
