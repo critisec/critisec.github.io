@@ -16,7 +16,7 @@ Online: [https://link.springer.com/article/10.1007/s10207-019-00451-0](https://l
 * G. Carignani, F. Righetti, C. Vallati, M. Tiloca and G. Anastasi, "Evaluation of Feasibility and Impact of Attacks Against the 6top Protocol in 6TiSCH Networks", in Proceedings of the 21st IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM 2020), pp 68-77, Cork (Ireland),
 2020
 
-* N. Paladi, M. Tiloca, P. N. Bideh and M. Hell, "DSN 2021 Flowrider - Fast On-Demand Key Provisioning for Cloud Networks", in Proceedings of the 17th EAI International Conference on Security and Privacy in Communication Networks (EAI SecureComm 2021), pp 1-20, Canterbury (UK), 2021 (To appear)
+* N. Paladi, M. Tiloca, P. N. Bideh and M. Hell, "Flowrider - Fast On-Demand Key Provisioning for Cloud Networks", in Proceedings of the 17th EAI International Conference on Security and Privacy in Communication Networks (EAI SecureComm 2021), pp 1-20, Canterbury (UK), 2021 (To appear)
 
 ---
 
