@@ -21,7 +21,7 @@ Online: [https://link.springer.com/article/10.1007/s10207-019-00451-0](https://l
 ---
 
 # Demo Papers
-* N. Paladi, M. Tiloca, P. N. Bideh and M. Hell, "On-demand Key Distribution for Cloud Networks", in 24th Conference on Innovation in Clouds, Internet and Networks (ICIN 2021), Demonstration track, pp 1-3, Paris (France), 2021 (To appear)
+* N. Paladi, M. Tiloca, P. N. Bideh and M. Hell, "On-demand Key Distribution for Cloud Networks", in 24th Conference on Innovation in Clouds, Internet and Networks (ICIN 2021), Demonstration track, pp 80-82, Paris (France), 2021
 
 ---
 
