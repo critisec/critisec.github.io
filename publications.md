@@ -149,6 +149,10 @@ The following list includes the IETF documents where RISE has been involved. For
 * A method of the Authentication and Authorization for Constrained Environments (ACE) framework, which allows an Authorization Server to notify Clients and Resource Servers (i.e., registered devices) about revoked Access Tokens.
 * [https://datatracker.ietf.org/doc/draft-tiloca-ace-revoked-token-notification/](https://datatracker.ietf.org/doc/draft-tiloca-ace-revoked-token-notification/)
 
-19.	AEAD Key Usage Limits in OSCORE
-* A method for two OSCORE peers to take into account limits of the used AEAD cipher, to preserve the security of their communications.
+19.	Key Update for OSCORE
+* A method for two OSCORE peers to take into account limits of the used AEAD cipher to preserve the security of their communications, as well as a lightweight method for updating their keying material and establish a new OSCORE Security Context.
 * [https://datatracker.ietf.org/doc/draft-hoeglund-core-oscore-key-limits/](https://datatracker.ietf.org/doc/draft-hoeglund-core-oscore-key-limits/)
+
+20.	OSCORE-capable Proxies
+* A method for protecting CoAP message with OSCORE also between an origin application endpoint and an intermediary, or between two intermediaries. This includes the possible double-protection of a messages through "OSCORE-in-OSCORE", i.e., both end-to-end between origin application endpoints, as well as between an application endpoint and an intermediary.
+* [https://datatracker.ietf.org/doc/html/draft-tiloca-core-oscore-capable-proxies](https://datatracker.ietf.org/doc/html/draft-tiloca-core-oscore-capable-proxies)
