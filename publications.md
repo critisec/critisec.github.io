@@ -51,6 +51,8 @@ Online: [https://link.springer.com/article/10.1007/s10207-019-00451-0](https://l
 
 * "Framtidens smarta lyktstolpar blir mer energisnåla och trygghetsskapande" (in Swedish). Online: [https://kundnyheter.ellevio.se/framtidens-smarta-lyktstolpar-blir-mer-energisnala-och-trygghetsskapande/](https://kundnyheter.ellevio.se/framtidens-smarta-lyktstolpar-blir-mer-energisnala-och-trygghetsskapande/)
 
+* "Så blir kritisk infrastruktur cybersäker" (in Swedish). Online: [https://www.ri.se/sv/berattelser/sa-blir-kritisk-infrastruktur-cybersaker](https://www.ri.se/sv/berattelser/sa-blir-kritisk-infrastruktur-cybersaker)
+
 ---
 
 # IETF Stardardization meetings
