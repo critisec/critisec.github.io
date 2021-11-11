@@ -67,6 +67,7 @@ Regular participation and presentations at the IETF meetings:
 * IETF 109 (Online, November 2020)
 * IETF 110 (Online, March 2021)
 * IETF 111 (Online, July 2021)
+* IETF 112 (Online, November 2021)
 
 ---
 
