@@ -121,35 +121,35 @@ The following list includes the IETF documents where RISE has been involved. For
 * Definition of message formats and procedures for requesting  and distributing group keying material using the Authorization for Constrained Environments (ACE) framework, to protect communications among group members.
 * [https://datatracker.ietf.org/doc/draft-ietf-ace-key-groupcomm/](https://datatracker.ietf.org/doc/draft-ietf-ace-key-groupcomm/)
 
-11. Key Management for OSCORE Groups in ACE
+11. Key Update for OSCORE (KUDOS)
+* A method for two OSCORE peers to take into account limits of the used AEAD cipher to preserve the security of their communications, as well as a lightweight method for updating their keying material and establish a new OSCORE Security Context.
+* [https://datatracker.ietf.org/doc/draft-ietf-core-oscore-key-update/](https://datatracker.ietf.org/doc/draft-ietf-core-oscore-key-update/)
+
+12. Key Management for OSCORE Groups in ACE
 * A method to request and provision keying   material in group communication scenarios where the group communication is based on CoAP and secured with Group Object Security for Constrained RESTful Environments (Group OSCORE), building on the ACE framework for Authentication and Authorization
 * [https://datatracker.ietf.org/doc/draft-ietf-ace-key-groupcomm-oscore/](https://datatracker.ietf.org/doc/draft-ietf-ace-key-groupcomm-oscore/)
 
-12.	Admin Interface for the OSCORE Group Manager
+13.	Admin Interface for the OSCORE Group Manager
 * A RESTful admin interface at the Group Manager, that allows an Administrator entity to create and delete OSCORE groups, as well as to retrieve and update their configuration. The ACE framework for Authentication and Authorization is used to enforce   authentication and authorization of the Administrator at the Group Manager.
 * [https://datatracker.ietf.org/doc/draft-ietf-ace-oscore-gm-admin/](https://datatracker.ietf.org/doc/draft-ietf-ace-oscore-gm-admin/)
 
-13.	Notification of Revoked Access Tokens in the Authentication and Authorization for Constrained Environments (ACE) Framework
+14.	Notification of Revoked Access Tokens in the Authentication and Authorization for Constrained Environments (ACE) Framework
 * A method of the Authentication and Authorization for Constrained Environments (ACE) framework, which allows an Authorization Server to notify Clients and Resource Servers (i.e., registered devices) about revoked Access Tokens.
 * [https://datatracker.ietf.org/doc/draft-ietf-ace-revoked-token-notification/](https://datatracker.ietf.org/doc/draft-ietf-ace-revoked-token-notification/)
 
 ##  Individual submissions
 
-14.	Discovery of OSCORE Groups with the CoRE Resource Directory
+15.	Discovery of OSCORE Groups with the CoRE Resource Directory
 * Method for a CoAP endpoint to use the CoRE Resource Directory for discovering Object Security for Constrained RESTful Environments (OSCORE) groups and acquiring information to join them.
 * [https://datatracker.ietf.org/doc/draft-tiloca-core-oscore-discovery/](https://datatracker.ietf.org/doc/draft-tiloca-core-oscore-discovery/)
 
-15.	Proxy Operations for CoAP Group Communication
+16.	Proxy Operations for CoAP Group Communication
 * A method to enable CoAP forward proxies to operate in group communication scenarios, by forwarding over multicast one request to multiple servers, and forwarding back the individual distinguishable responses to the client.
 * [https://datatracker.ietf.org/doc/draft-tiloca-core-groupcomm-proxy/](https://datatracker.ietf.org/doc/draft-tiloca-core-groupcomm-proxy/)
 
-16. Cacheable OSCORE
+17. Cacheable OSCORE
 * A method to enable CoAP forward proxies to cache response messages protected with Group Object Security for Constrained RESTful Environments (Group OSCORE).
 * [https://datatracker.ietf.org/doc/draft-amsuess-core-cachable-oscore/](https://datatracker.ietf.org/doc/draft-amsuess-core-cachable-oscore/)
-
-17.	Key Update for OSCORE
-* A method for two OSCORE peers to take into account limits of the used AEAD cipher to preserve the security of their communications, as well as a lightweight method for updating their keying material and establish a new OSCORE Security Context.
-* [https://datatracker.ietf.org/doc/draft-hoeglund-core-oscore-key-limits/](https://datatracker.ietf.org/doc/draft-hoeglund-core-oscore-key-limits/)
 
 18.	OSCORE-capable Proxies
 * A method for protecting CoAP message with OSCORE also between an origin application endpoint and an intermediary, or between two intermediaries. This includes the possible double-protection of a messages through "OSCORE-in-OSCORE", i.e., both end-to-end between origin application endpoints, as well as between an application endpoint and an intermediary.
