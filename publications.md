@@ -18,9 +18,9 @@ Online: [https://link.springer.com/article/10.1007/s10207-019-00451-0](https://l
 
 * N. Paladi, M. Tiloca, P. N. Bideh and M. Hell, "Flowrider - Fast On-Demand Key Provisioning for Cloud Networks", in Proceedings of the 17th EAI International Conference on Security and Privacy in Communication Networks (EAI SecureComm 2021), pp 1-20, Canterbury (UK), 2021 (To appear)
 
-* D. Shin, Z. Ali Khan, D. Bianculli, and L. Briand, “A theoretical framework for understanding the relationship between log parsing and anomaly detection,” in Proceedings of the 21th International Conference on Runtime Verification (RV 2021), pp. 277-287. Springer, Cham, 2021
+* D. Shin, Z. A. Khan, D. Bianculli, and L. Briand, “A theoretical framework for understanding the relationship between log parsing and anomaly detection,” in Proceedings of the 21th International Conference on Runtime Verification (RV 2021), pp. 277-287. Springer, Cham, 2021
 
-* Z. Ali Khan, D. Shin, D. Bianculli, and L. Briand, “Guidelines for Assessing the Accuracy of Log Message Template Identification Techniques,” in Proceedings of the 44th International Conference on Software Engineering (ICSE 2022), pp. 1-12, 2022 (To appear)
+* Z. A. Khan, D. Shin, D. Bianculli, and L. Briand, “Guidelines for Assessing the Accuracy of Log Message Template Identification Techniques,” in Proceedings of the 44th International Conference on Software Engineering (ICSE 2022), pp. 1-12, 2022 (To appear)
 
 ---
 
