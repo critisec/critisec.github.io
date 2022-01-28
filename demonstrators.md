@@ -97,7 +97,7 @@ As summarized below, this demo considers the standard framework for device manag
 *	OSCORE - The security protocol Object Security for Constrained RESTful Environment (OSCORE) has been standardised as RFC 8613, and provides end-to-end protection of messages exchanged by two peers using the protocol CoAP. OSCORE is especially efficient, as leveraging the standard CBOR and COSE also suitable to IoT devices. Before two peers securely communicate, they are required to establish an OSCORE Security Context.
 *	LwM2M - The OMA standard LwM2M provides a control and management framework for IoT devices. An IoT device acting as LwM2M Client first “bootstraps” at a Bootstrap Server, and then “registers” at a LwM2M Server. Once completed the registration, the LwM2M Client and Server securely communicate with one another, e.g., for retrieving information from or issuing commands to the LwM2M Client. Typical communications in LwM2M rely on CoAP, and can be protected by different means, e.g., by using OSCORE. The original LwM2M bootstrapping and registration processes using OSCORE occur as depicted in Figure 5.1.
 
-![lwm2m](images/demo_lwm2m.jpg)
+![Original LwM2M workflow using OSCORE](images/lwm2m_workflow1.jpg)
 
 Figure 5.1 - Original LwM2M workflow using OSCORE
 
@@ -107,6 +107,7 @@ The step forward from the current state-of-the-art and incarnated in this demo i
 Thus, when relying on EDHOC throughout the enrolment process, an IoT device can establish OSCORE Security Contexts with other parties (notably the LwM2M Server, but also further external Application Servers), in a way which is fully automated, providing a degree of negotiation in security parameters, and ensuring high-level security properties (e.g., Perfect Forward Secrecy).
 The result of such an integration is overviewed in the workflow depicted in Figure 5.3. The demo execution will practically show such a workflow throughout its steps.
 
+![Alternative LwM2M workflow using EDHOC and OSCORE](images/lwm2m_workflow2.jpg)
 Figure 5.2 - Alternative LwM2M workflow using EDHOC and OSCORE
 
 ---
