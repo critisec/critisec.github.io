@@ -14,14 +14,19 @@ The CRITISEC project has implemented 5 real life demonstrators to show the capab
 * [Secure End-to-end Group Communication](#secure-end-to-end-group-communication)
 * [Secure and Automated Device On-boarding](#secure-and-automated-device-on-boarding)
 
+---
+
 ## Energy Distribution
 
 work in progress
 
+---
 
 ## Smart City
 
 work in progress
+
+---
 
 ## Critical Communication
 
@@ -54,10 +59,13 @@ The scenario is as follows:
 *	ECSM is using the flow described in figure 2 and detects an anomaly in the information flow.
 *	ECSM alerts the operator, who can accept the anomaly or mark it as anomaly and start mitigation actions
 
+---
 
 ## Secure-End-to-End Group Communication
 
 work in progress
+
+---
 
 ## Secure and Automated Device On-boarding
 
