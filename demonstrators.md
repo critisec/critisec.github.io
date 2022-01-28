@@ -38,6 +38,9 @@ The NoSaCo also includes a server to run different services needed for the work 
 
 ![ECSM Edge Computing Security Module](images/demo-ecsm1.JPG)
 
+Figure 3.1: Critical Communication Demonstrator Architecture
+
+
 For the security of the LoRa based  IoT network the same solutions are used that are already used in the Energy distribution and Smart Cities demo: Sensative’s Yggio 3 and Applio’s Sensec.
 For the security of the whole network the DTM-Module of our Taiwanese partner CSTI is used. The DTM-module detects, tags and mitigates attacks to the communication network.
 For the security of all applications running on the sever (including Yggio3 and Sensec) an innovative new concept is used in the Edge Computing Security Module (ECSM).
@@ -46,6 +49,8 @@ To accomplish this all logs from the applications are collected in a LOGSTASH re
 ECSM is reading the logs, generates templates and removes noise and the analyses the log templates using a specialized AI Model.
 
 ![AI Log-based Anomaly Detection](images/demo-anomaly-detection1.JPG)
+
+Figure 3.2: Log-based anomaly detection process
 
 The system is trained by the normal behaviour of the applications in real-life for minimum 24 hours. It then can detect anomalies in the behaviour of the applications and alert an operator when anomalies are detected. The operator can accept the anomaly as normal and the AI model now knows that this behaviour is ok or as anomaly and start mitigation actions.
 In the practical demo we will concentrate on the ECSM workflow.
@@ -77,11 +82,32 @@ This can be used for authorized joining of OSCORE groups. That is, a candidate g
 The step forward from the current state-of-the-art and incarnated in this demo is a solution for authenticated and authorized provisioning of group key material followed by secure end-to-end group communication, with different modes of operation available to ensure good performance.
 This solution is overviewed in the high-level workflow depicted in Figure 4.1. That is: i) each device obtains an authorization evidence for joining an OSCORE group, and then joins the intended OSCORE group through the associated Group Manager; ii) a group member sends secure commands to the other group members over IP multicast and protected with Group OSCORE, with responses following.
 
+![GroupComm](images/demo_groupcomm.jpg)
 
-
- Overall workflow as: i) group joining; ii) secure group communication with Group OSCORE
----
+Figure 4.1 - Overall workflow as: i) group joining; ii) secure group communication with Group OSCORE
 
 ## Secure and Automated Device On-boarding
 
-work in progress
+Involved partners: RISE (SE), Sony Nordic (SE), Applio (SE)
+
+This demo considers the onboarding of IoT devices as a fundamental, early step in their lifecycle, where first crucial steps are taken to ensure that following communications are properly secured.
+In particular, this demo consists of an early proof-of-concept showing how it is possible to achieve a fully automated IoT device onboarding, whose outcome includes the establishment of secure communication associations with high-level security.
+
+As summarized below, this demo considers the standard framework for device management OMA Lightweight Machine-to-Machine (LwM2M), as well as a number of technical security components.
+*	OSCORE - The security protocol Object Security for Constrained RESTful Environment (OSCORE) has been standardised as RFC 8613, and provides end-to-end protection of messages exchanged by two peers using the protocol CoAP. OSCORE is especially efficient, as leveraging the standard CBOR and COSE also suitable to IoT devices. Before two peers securely communicate, they are required to establish an OSCORE Security Context.
+*	LwM2M - The OMA standard LwM2M provides a control and management framework for IoT devices. An IoT device acting as LwM2M Client first “bootstraps” at a Bootstrap Server, and then “registers” at a LwM2M Server. Once completed the registration, the LwM2M Client and Server securely communicate with one another, e.g., for retrieving information from or issuing commands to the LwM2M Client. Typical communications in LwM2M rely on CoAP, and can be protected by different means, e.g., by using OSCORE. The original LwM2M bootstrapping and registration processes using OSCORE occur as depicted in Figure 5.1.
+
+![lwm2m](images/demo_lwm2m.jpg)
+
+Figure 5.1 - Original LwM2M workflow using OSCORE
+
+*	EDHOC - Ephemeral Diffie-Hellman Over COSE (EDHOC) is a novel, efficient key establishment protocol as well as an IETF standardisation proposal. EDHOC allows two peers to mutually authenticate and then establish a fresh secret enjoying Perfect Forward Secrecy. The main use case for EDHOC is the authenticated establishment of an OSCORE Security Context.
+
+The step forward from the current state-of-the-art and incarnated in this demo is the integration and use of the EDHOC key establishment protocol within the LwM2M framework.
+Thus, when relying on EDHOC throughout the enrolment process, an IoT device can establish OSCORE Security Contexts with other parties (notably the LwM2M Server, but also further external Application Servers), in a way which is fully automated, providing a degree of negotiation in security parameters, and ensuring high-level security properties (e.g., Perfect Forward Secrecy).
+The result of such an integration is overviewed in the workflow depicted in Figure 5.3. The demo execution will practically show such a workflow throughout its steps.
+
+Figure 5.2 - Alternative LwM2M workflow using EDHOC and OSCORE
+
+---
+
