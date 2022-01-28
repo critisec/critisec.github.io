@@ -63,8 +63,23 @@ The scenario is as follows:
 
 ## Secure-End-to-End Group Communication
 
-work in progress
+Involved partners: RISE (SE)
 
+This demo considers the group communication model, where network nodes acting as client can send a single message to multiple recipient servers, e.g., over IP multicast. Recipients can reply back with responses over unicast. Typically, IoT-based networks and applications use the communication protocol CoAP, which natively supports such communication model.
+In particular, this demo consists of an early proof-of-concept showing a number of network nodes joining a group where communication occurs also over IP multicast and is protected end-to-end with the Group OSCORE security protocol. The authorized joining process occurs through the Group Manager (GM) for the group and relies on the ACE Framework for Authentication and Authorization.
+
+This demo leverages a number of technical security components developed during the project.
+
+* Group OSCORE - The Group OSCORE protocol builds on the OSCORE protocol standardized in RFC 8613, and provides end-to-end protection of CoAP messages exchanged in a group communication environment. Group OSCORE fulfils the same security requirements of OSCORE, and especially provides source authentication of exchanged messages. This can be achieved in two different ways, depending on the exact mode of operation used to protect a certain message, i.e., either the “group mode” typically used for one-to-many messages or the “pairwise mode” typically used for one-to-one messages.
+*	Joining of an OSCORE group with the ACE framework - The ACE Framework builds on the OAuth 2.0 framework as an access control solution for the IoT. An ACE Client obtains an Access Token from an Authorization Server (AS), as a credential proving a set of owned access rights. Then, the Client uploads the Access Token at an ACE Resource Server (RS). Finally, the Client can access resources at the RS, as allowed by the obtained Access Token.
+This can be used for authorized joining of OSCORE groups. That is, a candidate group member acts as ACE Client, while the GM of the OSCORE group acts as ACE RS. By uploading the Access Token at the GM, the candidate group member proves to be authorized to join a certain OSCORE group. Then, it engages in a joining procedure with the GM, from which it obtains the keying material for operating in the OSCORE group, hence becoming a member of that group able to securely communicate with other group members using Group OSCORE.
+
+The step forward from the current state-of-the-art and incarnated in this demo is a solution for authenticated and authorized provisioning of group key material followed by secure end-to-end group communication, with different modes of operation available to ensure good performance.
+This solution is overviewed in the high-level workflow depicted in Figure 4.1. That is: i) each device obtains an authorization evidence for joining an OSCORE group, and then joins the intended OSCORE group through the associated Group Manager; ii) a group member sends secure commands to the other group members over IP multicast and protected with Group OSCORE, with responses following.
+
+
+
+ Overall workflow as: i) group joining; ii) secure group communication with Group OSCORE
 ---
 
 ## Secure and Automated Device On-boarding
