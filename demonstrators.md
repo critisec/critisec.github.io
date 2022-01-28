@@ -8,11 +8,11 @@ permalink: /demonstrators/
 
 The CRITISEC project has implemented 5 real life demonstrators to show the capabilities of the CRITISEC solutions:
 
-* Energy Distribution
-* Smart City
+* [Energy Distribution](#energy-distribution)
+* [Smart City](#smart-city)
 * [Critical Communication](#critical-communication)
-* Secure End-to-end Group Communication
-* Secure and Automated Device On-boarding
+* [Secure End-to-end Group Communication](#secure-end-to-end-group-communication)
+* [Secure and Automated Device On-boarding](#secure-and-automated-device-on-boarding)
 
 ## Energy Distribution
 
