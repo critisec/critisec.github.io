@@ -4,6 +4,8 @@ title: "Software"
 permalink: /software/
 ---
 
+Following open source software was developed in the CRITISEC project:
+
 # OSCORE
 
 * Java – Integrated in Eclipse Californium
