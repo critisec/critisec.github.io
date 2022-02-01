@@ -46,3 +46,8 @@ Specifications:
   - [https://bitbucket.org/marco-tiloca-sics/ace-java](https://bitbucket.org/marco-tiloca-sics/ace-java)
   
 Specification: [https://datatracker.ietf.org/doc/draft-ietf-ace-key-groupcomm-oscore/](https://datatracker.ietf.org/doc/draft-ietf-ace-key-groupcomm-oscore/)
+
+# Log Message Template Identification
+
+* Guidelines for Assessing the Accuracy of Log Message Template Identification Techniques
+  - Artifact: https://doi.org/10.6084/m9.figshare.18858332
