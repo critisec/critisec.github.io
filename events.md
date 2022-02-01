@@ -24,9 +24,11 @@ Presenter: Harold Linke, HITEC Luxembourg
 
 Presentation of CRITISEC.
 
-https://www.celticnext.eu/event/celtic-event-co-located-with-eucnc-19-20-june-in-valencia-spain/
+[Link to Celtic-Next-Event Valencia 2019](https://www.celticnext.eu/event/celtic-event-co-located-with-eucnc-19-20-june-in-valencia-spain/)
 
-Video: Interview with Harold Linke, CRITISEC Project Coordinator: https://youtu.be/rtJheaQhTAc 
+Video: Interview with Harold Linke, CRITISEC Project Coordinator:
+
+[Link to video](https://youtu.be/rtJheaQhTAc)
 
 ---
 
