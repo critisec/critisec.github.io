@@ -50,4 +50,4 @@ Specification: [https://datatracker.ietf.org/doc/draft-ietf-ace-key-groupcomm-os
 # Log Message Template Identification
 
 * Guidelines for Assessing the Accuracy of Log Message Template Identification Techniques
-  - Artifact: https://doi.org/10.6084/m9.figshare.18858332
+  - Artifact: [https://doi.org/10.6084/m9.figshare.18858332](https://doi.org/10.6084/m9.figshare.18858332)
