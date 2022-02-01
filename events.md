@@ -91,9 +91,9 @@ Agenda:
     - OSCORE and Group OSCORE 
 
 Presentations:
-* [Introduction](presentations/CRITISEC_Region-Joenkoeping_Intro_2022-01-26.pdf)
+* [CRITISEC use cases](presentations/CRITISEC_Region-Joenkoeping_Intro_2022-01-26.pdf)
 
-* [OSCORE](presentations/CRITISEC_Region-Joenkoeping-OSCORE_2022-01-26.pdf)
+* [Secure E2E communication](presentations/CRITISEC_Region-Joenkoeping-OSCORE_2022-01-26.pdf)
 
 
 ---
