@@ -10,7 +10,7 @@ The CRITISEC project participated or organised 3 events
 
 * [Eureka Celtic Next Event](#Eureka-Celtic-Next-Event)
 * [CRITISEC Workshop Taiwan](#CRITISEC-Workshop-Taiwan)
-* [Joenkoeping Event](#Joenkoeping-Event)
+* [Jönköping Event](#Joenkoeping-Event)
 
 
 ---
