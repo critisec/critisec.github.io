@@ -18,13 +18,52 @@ The CRITISEC project has implemented 5 real life demonstrators to show the capab
 
 ## Energy Distribution
 
-work in progress
+Involved partners: Kraftringen (SE), Sensative (SE), Applio (SE)
+
+Objective - Increase monitoring and control of energy distribution grid with IoT
+•	Sensors connected by sensor networks and an open IoT-platform. The sensor network and the open IoT-platform  has to be secure, robust and resilient. 
+  *	The energy distribution grid is classified as security sensitive business (Protective Security Act) and societal critical business (Authority for social protection and emergency preparedness)
+•	Lower cost than existing solutions
+
+Benefits vs state of the art
+•	Improved quality – reduce power failures and outage time for customers
+•	Improved efficiency and lower cost – from scheduled to event-based maintenance and since sensors are wireless (LoRaWAN) it can get  expanded quickly with low installation cost. 
+•	Improved security - enables monitoring of physical access to the electricity stations and cabinets. E2E security feasible in the future with OSCORE once sensor manufacturers integrated the technology.
+•	Improved scalability - the horizontal IoT platform has a wide range of connectivity options which means future use cases built upon modern IoT technologies quickly can be enabled.    
+The test bed is applied in Kraftringen’s electricity grid, but similar solutions can be applicable also for other energy infrastructures. In the electricity grid, two substations connected in a loop with eight more substations, fed from a main station, are equipped with LoRaWAN fault sensors and door sensors. 
+
+The fault sensor will send a fault message when a power fault occurs in the loop of the substation. Then the operator will be able to know more exactly the location of the fault and due to that get the reparation started faster and get the outage time for customers reduced. The door sensor will send a message at least every time the door is opened or closed. This gives the operator the possibility to know, for example, whether people for reparation are in place as planned or if a door is unintentionally left open. 
+Sensative Yggio is applied as the open IoT platform to collect LoRaWAN sensor data to Kraftringen. Yggio includes security innovations and enhanced connectivity options developed in Critisec which takes it beyond state of the art for an IoT platform and qualify for the use case: 
+*	KeyCloak - identity and access management as well as wide support for security integrations.
+*	FIWARE NGSI v2 Context Broker (RATATOSK) - enables 3rd party applications to connect to Yggio retrieve data that they have been authorized to access.
+*	Kubernetes orchestrator - robustness and resilience through horizontal scaling
+*	Access engine - authorization engine tuned for performance. 
+
+Applio Sense is applied to monitor the LoRaWAN network for anomaly detection to secure that it is not being tampered with. Applio Sense gets access to the LoRaWAN network by using the secure connectivity options in Sensative yggio.  The following items are checked to evaluate if collected  sensor data can be trusted or not:
+*	Anomalies for a single device, device is fake or tampered
+*	Anomalies for a single device, instable behaviour like multiple reboots or low battery. 
+*	Anomalies for a single device, instable radio performance
+*	Anomalies for several devices connected to a certain gateway 
+Results is that the technologies in the demonstrator is confirmed to be working well and it is executing in a live energy distribution grid. The work on the demonstrator will continue in a commercial setting between Kraftringen, Sensative and Applio. The use case as such is applicable to all energy distribution companies
 
 ---
 
 ## Smart City
 
-work in progress
+Involved partners: Tyrens (SE), Sensative (SE)
+
+A city municipal administration is a complex social system. It includes several verticals such as utilities, departments, internal systems, services and processes, which are mostly implemented at different times. These systems may be developed based on legacy technologies and or proprietary systems that obstruct the exploitation of the old city infrastructure as valuable resources. For this reason, we recommend that different city applications should not be depicted as segregated silos that require a holistic approach. In a smart city context, interoperability among the different assets and city departments becomes crucial for delivering efficient city operation and/or services, capitalized on a smart city infrastructure.
+Most smart cities infrastructures are implemented based on an edge network that exchanges data with a back-end IT system for the purpose of supporting applications in several possible topologies. CRITISEC adopts a smart city test bed with focus on smart street lighting, by which a common horizontal connectivity platform across the city enables and supports various applications. Cities that choose to use horizontal IoT platforms with open and standardized APIs, such as FIWARE NGSI, will enable them to develop shared city dashboards and compare with each other.
+Objectives:
+* Deploy a managed street lighting system with wireless motion sensors based on 6LoWPAN protocol.
+*	Integrate the street lighting system and additional environmental wireless sensors based on LoRa in a smart city open, horizontal platform
+*	The horizontal platform should apply the open API’s and data formats based on the  FIWARE standard while including a comprehensive security solution and being fully compliant to GDPR privacy requirements.
+
+The smart city / village demonstrator and test bed includes Atelié Lyktan Pepper luminaires, which are controlled and monitored through the Seneco Citygrid control portal. Luminaries are equipped with integrated sensors and control units (Citygrid InFix) that are interconnected using a 6LoWPAN wireless mesh network. CRITISEC enables the Citygrid portal to be adapted and integrated via secure FIWARE APIs and data formats with Sensative Yggio as a horizontal Smart City platform together with LoRa environmental IoT sensors. This integrated solution capitalizes on common API data models for seamless cloud interfacing between Yggio and Citygrid, conforming security, functional, non-functional and developmental requirements and common APIs data.
+Benefits vs state of the art:
+*	Connected system based on European open standard (RATATOSK) FIWARE API’s and data format in a horizontal system instead of separate vertical pillars to enable smart city dashboard. The city owns all data.
+*	FIWARE API’s complemented with open source component KeyCloak as a security plug-in to enable secure connectivity between systems as well as integration with external identity management system based on SAML 2.0, LDAP, AD, Open ID, Social Login, etc.
+*	Robustness, resilience and scalability based on Kubernetes orchestrator and Yggio access engine. Verified with 1 000 000 devices on data model level. 
 
 ---
 
