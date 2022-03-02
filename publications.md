@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 
 # Journal Articles
+* M. Gunnarsson, K. M. Malarski, R. Höglund and M. Tiloca, "Performance Evaluation of Group OSCORE for Secure Group Communication in the Internet of Things", ACM Transactions on Internet of Things, 2022 (To appear)
+
 * M. Gunnarsson, J. Brorsson, F. Palombini, L. Seitz and M. Tiloca, "Evaluating the Performance of the OSCORE Security Protocol in Constrained IoT Environments", Internet of Things; Engineering Cyber Physical Human Systems, Vol. 13, Elsevier, 2021. Online: [https://www.sciencedirect.com/science/article/pii/S2542660520301645](https://www.sciencedirect.com/science/article/pii/S2542660520301645)
 
 * M. Tiloca, G. Dini, K. Rizki and S. Raza, "Group rekeying based on member join history", International Journal of Information Security, Vol. 19, pp 343-381, Springer, 2020. 
