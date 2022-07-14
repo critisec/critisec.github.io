@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 # Journal Articles
-* M. Gunnarsson, K. M. Malarski, R. Höglund and M. Tiloca, "Performance Evaluation of Group OSCORE for Secure Group Communication in the Internet of Things", ACM Transactions on Internet of Things, 2022 (To appear)
+* M. Gunnarsson, K. M. Malarski, R. Höglund and M. Tiloca, "Performance Evaluation of Group OSCORE for Secure Group Communication in the Internet of Things", ACM Transactions on Internet of Things, Vol.3, Issue 3, pp 1-31, ACM, 2022. Online: [https://dl.acm.org/doi/pdf/10.1145/3523064](https://dl.acm.org/doi/pdf/10.1145/3523064)
 
 * M. Gunnarsson, J. Brorsson, F. Palombini, L. Seitz and M. Tiloca, "Evaluating the Performance of the OSCORE Security Protocol in Constrained IoT Environments", Internet of Things; Engineering Cyber Physical Human Systems, Vol. 13, Elsevier, 2021. Online: [https://www.sciencedirect.com/science/article/pii/S2542660520301645](https://www.sciencedirect.com/science/article/pii/S2542660520301645)
 
