@@ -74,6 +74,7 @@ Regular participation and presentations at the IETF meetings:
 * IETF 110 (Online, March 2021)
 * IETF 111 (Online, July 2021)
 * IETF 112 (Online, November 2021)
+* IETF 113 (Vienna, March 2022)
 
 ---
 
@@ -87,23 +88,21 @@ The following list includes the IETF documents where RISE has been involved. For
 * With reference to authentication, authorization and access control, this document provides a description of how to declare in a CBOR Web Token (CWT) (which is defined by RFC 8392) that the presenter of the CWT possesses a particular proof-of-possession key.
 * [https://datatracker.ietf.org/doc/html/rfc8747](https://datatracker.ietf.org/doc/html/rfc8747)
 
-## Approved for Publication as Proposed Standard
-
-2. Authentication and Authorization for Constrained Environments (ACE) using the OAuth 2.0 Framework (ACE-OAuth)
+2. Authentication and Authorization for Constrained Environments Using the OAuth 2.0 Framework (ACE-OAuth)
 * A framework for authentication and authorization in Internet of Things (IoT) environments, based on a set of building blocks including OAuth 2.0 and CoAP.
-* [https://datatracker.ietf.org/doc/draft-ietf-ace-oauth-authz/](https://datatracker.ietf.org/doc/draft-ietf-ace-oauth-authz/)
+* [https://datatracker.ietf.org/doc/html/rfc9200](https://datatracker.ietf.org/doc/html/rfc9200)
 
-3. Additional OAuth Parameters for Authorization in Constrained Environments (ACE)
+3. Additional OAuth Parameters for Authentication and Authorization for Constrained Environments (ACE)
 * Definition of new parameters to interact with the Authorization Server of the framework for   authentication and authorization for constrained environments (ACE).
-* [https://datatracker.ietf.org/doc/draft-ietf-ace-oauth-params/](https://datatracker.ietf.org/doc/draft-ietf-ace-oauth-params/)
+* [https://datatracker.ietf.org/doc/html/rfc9201](https://datatracker.ietf.org/doc/html/rfc9201)
 
-4. OSCORE profile of the Authentication and Authorization for Constrained Environments Framework
-* A profile for the Authentication and   Authorization for Constrained Environments (ACE) framework, which  utilizes Object Security for Constrained RESTful Environments   (OSCORE) in order to achieve communication security, server authentication, and proof-of-possession.
-* [https://datatracker.ietf.org/doc/draft-ietf-ace-oscore-profile/](https://datatracker.ietf.org/doc/draft-ietf-ace-oscore-profile/)
-
-5. Datagram Transport Layer Security (DTLS) Profile for Authentication and Authorization for Constrained Environments (ACE)
+4. Datagram Transport Layer Security (DTLS) Profile for Authentication and Authorization for Constrained Environments (ACE)
 * A profile for the Authentication and Authorization for Constrained Environments (ACE) framework, which utilizes Datagram Transport Layer Security (DTLS) in order to achieve communication security, server authentication, and proof-of-possession.
-* [https://datatracker.ietf.org/doc/draft-ietf-ace-dtls-authorize/](https://datatracker.ietf.org/doc/draft-ietf-ace-dtls-authorize/)
+* [https://datatracker.ietf.org/doc/html/rfc9202](https://datatracker.ietf.org/doc/html/rfc9202)
+
+5. The Object Security for Constrained RESTful Environments (OSCORE) Profile of the Authentication and Authorization for Constrained Environments (ACE) Framework
+* A profile for the Authentication and Authorization for Constrained Environments (ACE) framework, which  utilizes Object Security for Constrained RESTful Environments (OSCORE) in order to achieve communication security, server authentication, and proof-of-possession.
+* [https://datatracker.ietf.org/doc/html/rfc9203](https://datatracker.ietf.org/doc/html/rfc9203)
 
 ##  Adopted as Working Group documents
 
