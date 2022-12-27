@@ -19,10 +19,9 @@ Online: [https://link.springer.com/article/10.1007/s10207-019-00451-0](https://l
 # Conference Papers
 * L. Seitz, M. Tiloca, M. Gunnarsson and R. Höglund, "Secure Software Updates for IoT based on Industry Requirements", in Proceedings of the 9th International Conference on Information Systems Security and Privacy (ICISSP 2023), pp 1-8, Lisbon (Portugal), 2023 (To appear)
 
-* G. Carignani, F. Righetti, C. Vallati, M. Tiloca and G. Anastasi, "Evaluation of Feasibility and Impact of Attacks Against the 6top Protocol in 6TiSCH Networks", in Proceedings of the 21st IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM 2020), pp 68-77, Cork (Ireland),
-2020
+* G. Carignani, F. Righetti, C. Vallati, M. Tiloca and G. Anastasi, "Evaluation of Feasibility and Impact of Attacks Against the 6top Protocol in 6TiSCH Networks", in Proceedings of the 21st IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM 2020), pp 68-77, Cork (Ireland), 2020
 
-* N. Paladi, M. Tiloca, P. N. Bideh and M. Hell, "Flowrider - Fast On-Demand Key Provisioning for Cloud Networks", in Proceedings of the 17th EAI International Conference on Security and Privacy in Communication Networks (EAI SecureComm 2021), pp 1-20, Canterbury (UK), 2021 (To appear)
+* N. Paladi, M. Tiloca, P. N. Bideh and M. Hell, "Flowrider - Fast On-Demand Key Provisioning for Cloud Networks", in Proceedings of the 17th EAI International Conference on Security and Privacy in Communication Networks (EAI SecureComm 2021), pp 207-228, Canterbury (UK), 2021
 
 * D. Shin, Z. A. Khan, D. Bianculli, and L. Briand, “A theoretical framework for understanding the relationship between log parsing and anomaly detection,” in Proceedings of the 21th International Conference on Runtime Verification (RV 2021), pp. 277-287. Springer, Cham, 2021
 
