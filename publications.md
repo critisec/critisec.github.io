@@ -17,6 +17,8 @@ Online: [https://link.springer.com/article/10.1007/s10207-019-00451-0](https://l
 ---
 
 # Conference Papers
+* L. Seitz, M. Tiloca, M. Gunnarsson and R. Höglund, "Secure Software Updates for IoT based on Industry Requirements", in Proceedings of the 9th International Conference on Information Systems Security and Privacy (ICISSP 2023), pp 1-8, Lisbon (Portugal), 2023 (To appear)
+
 * G. Carignani, F. Righetti, C. Vallati, M. Tiloca and G. Anastasi, "Evaluation of Feasibility and Impact of Attacks Against the 6top Protocol in 6TiSCH Networks", in Proceedings of the 21st IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM 2020), pp 68-77, Cork (Ireland),
 2020
 
